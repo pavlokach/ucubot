@@ -1,0 +1,10 @@
+C:\Pavlo\ucu\ucubot\ucubot\bin\Debug\netcoreapp2.0\ucubot.deps.json
+C:\Pavlo\ucu\ucubot\ucubot\bin\Debug\netcoreapp2.0\ucubot.runtimeconfig.json
+C:\Pavlo\ucu\ucubot\ucubot\bin\Debug\netcoreapp2.0\ucubot.runtimeconfig.dev.json
+C:\Pavlo\ucu\ucubot\ucubot\bin\Debug\netcoreapp2.0\ucubot.dll
+C:\Pavlo\ucu\ucubot\ucubot\bin\Debug\netcoreapp2.0\ucubot.pdb
+C:\Pavlo\ucu\ucubot\ucubot\obj\Debug\netcoreapp2.0\ucubot.csproj.CoreCompileInputs.cache
+C:\Pavlo\ucu\ucubot\ucubot\obj\Debug\netcoreapp2.0\ucubot.AssemblyInfoInputs.cache
+C:\Pavlo\ucu\ucubot\ucubot\obj\Debug\netcoreapp2.0\ucubot.AssemblyInfo.cs
+C:\Pavlo\ucu\ucubot\ucubot\obj\Debug\netcoreapp2.0\ucubot.dll
+C:\Pavlo\ucu\ucubot\ucubot\obj\Debug\netcoreapp2.0\ucubot.pdb
